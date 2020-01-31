@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"/home/csr/vagrant/Nginx/public_data","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/csr/vagrant/Nginx","disabled":false,"__vagrantfile":true}}}
